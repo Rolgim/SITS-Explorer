@@ -1,0 +1,1 @@
+https://ee-sitsexplorer.projects.earthengine.app/view/sits-explorer
