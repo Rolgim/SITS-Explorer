@@ -25,5 +25,5 @@ The right panel can be used to select the date displayed on the center panel. Th
 <img width="1852" height="962" alt="image" src="https://github.com/user-attachments/assets/c5c7b0b6-63e8-46eb-bc34-37b18030d005" />
 
 ## EO4Wetlands
-https://www.spaceclimateobservatory.org/eo4wetlands
-https://cartagene.cerema.fr/portal/apps/storymaps/stories/37d978633b7548d6bd758bd65b50aaaf
+- Project overview https://www.spaceclimateobservatory.org/eo4wetlands
+- Storymaps: https://cartagene.cerema.fr/portal/apps/storymaps/stories/37d978633b7548d6bd758bd65b50aaaf
