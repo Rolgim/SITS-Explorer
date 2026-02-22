@@ -30,3 +30,7 @@ CNES/Cerema/Geomatys project aiming at monitoring wetlands using remote sensing.
 
 - Project overview: https://www.spaceclimateobservatory.org/eo4wetlands
 - Storymaps: https://cartagene.cerema.fr/portal/apps/storymaps/stories/37d978633b7548d6bd758bd65b50aaaf
+
+## Acknowledgements
+
+Thanks to Teodolina Lopez and CEREMA for their hospitality, assistance and support during my time working on the EO4Wetlands project. 
