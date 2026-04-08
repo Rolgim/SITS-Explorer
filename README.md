@@ -2,6 +2,7 @@
 
 ![Earth Observation](https://img.shields.io/badge/Earth_Observation-🌍-blue)
 ![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-🛰️-green)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-📈-purple)
 ![Scripting with JavaScript](https://img.shields.io/badge/Scripting_with-JavaScript-yellow)
 ![Powered by Google Earth Engine](https://img.shields.io/badge/Powered_by-Google_Earth_Engine-lightgreen)
 
