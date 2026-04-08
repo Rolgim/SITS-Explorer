@@ -2,7 +2,7 @@
 
 ![Earth Observation](https://img.shields.io/badge/Earth_Observation-🌍-blue)
 ![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-🛰️-green)
-![Frontend JavaScript](https://img.shields.io/badge/frontend-JavaScript-yellow)
+![Scripting with JavaScript](https://img.shields.io/badge/Scripting_with-JavaScript-yellow)
 ![Powered by Google Earth Engine](https://img.shields.io/badge/Powered_by-Google_Earth_Engine-lightgreen)
 
 Source code for the SITS-Explorer app, developed as part of a post-doctoral fellowship at CEREMA, on the SCO EO4Wetlands project.
