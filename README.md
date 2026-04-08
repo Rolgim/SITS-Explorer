@@ -1,4 +1,4 @@
-# SITS-Explorer
+# SITS-Explorer 🌍
 
 Source code for the SITS-Explorer app, developed as part of a post-doctoral fellowship at CEREMA, on the SCO EO4Wetlands project.
 The app is available at: https://ee-sitsexplorer.projects.earthengine.app/view/sits-explorer
