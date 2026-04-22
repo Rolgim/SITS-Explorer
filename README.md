@@ -1,12 +1,16 @@
 # SITS-Explorer 🌍
 
-![Earth Observation](https://img.shields.io/badge/Earth_Observation-🌍-blue)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-🛰️-green)
-![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-📈-purple)
-![Powered by Google Earth Engine](https://img.shields.io/badge/Powered_by-Google_Earth_Engine-lightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Earth_Observation-🌍-blue" />
+  <img src="https://img.shields.io/badge/Remote_Sensing-🛰️-green"/> 
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-📈-purple" />
+  <img src="https://img.shields.io/badge/Powered_by-Google_Earth_Engine-lightgreen" />
+</p>
 
+<p align="center">
 Source code for the SITS-Explorer app, developed as part of a post-doctoral fellowship at CEREMA, on the SCO EO4Wetlands project.
 The app is available at: https://ee-sitsexplorer.projects.earthengine.app/view/sits-explorer
+</p>
 
 ## Overview
 
